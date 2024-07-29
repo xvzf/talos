@@ -9,7 +9,7 @@ replace gopkg.in/yaml.v3 => github.com/unix4ever/yaml v0.0.0-20220527175918-f17b
 require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/containerd/go-cni v1.1.10
-	github.com/cosi-project/runtime v0.5.3
+	github.com/cosi-project/runtime v0.5.5
 	github.com/dustin/go-humanize v1.0.1
 	github.com/emicklei/dot v1.6.2
 	github.com/evanphx/json-patch v5.9.0+incompatible
@@ -24,13 +24,13 @@ require (
 	github.com/santhosh-tekuri/jsonschema/v5 v5.3.1
 	github.com/siderolabs/crypto v0.4.4
 	github.com/siderolabs/gen v0.5.0
-	github.com/siderolabs/go-api-signature v0.3.3
+	github.com/siderolabs/go-api-signature v0.3.4
 	github.com/siderolabs/go-blockdevice v0.4.7
 	github.com/siderolabs/go-pointer v1.0.0
 	github.com/siderolabs/net v0.4.0
 	github.com/siderolabs/protoenc v0.2.1
 	github.com/stretchr/testify v1.9.0
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20240701130421-f6361c86f094
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20240725223205-93522f1f2a9f
 	google.golang.org/grpc v1.65.0
 	google.golang.org/protobuf v1.34.2
 	gopkg.in/yaml.v3 v3.0.1
